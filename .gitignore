@@ -1,0 +1,26 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Uploaded applicant resumes
+applicant-backend/uploads/resumes/*
+
+# Build files
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
